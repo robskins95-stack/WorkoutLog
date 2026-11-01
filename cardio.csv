@@ -1,0 +1,15 @@
+date,session_id,activity_type,duration_seconds,distance_mi,avg_heart_rate_bpm,cardio_load,zone_minutes,steps,vest_weight_lb,incline_percent,data_quality,notes
+2026-10-05,20261005-01,treadmill_walk,,2,,,,,,5,partial,User reported 2-mile treadmill walk at 3.5 mph and approximately 5% incline
+2026-10-06,20261006-01,treadmill_walk,1993,2,117,28,39,,,,confirmed,Distance and time from treadmill; Fitbit distance estimate was 1.84 mi
+2026-10-10,20261010-01,outdoor_walk,2460,2.37,122,38,48,4719,,,confirmed,Brisk morning walk
+2026-10-10,20261010-02,outdoor_walk,2715,2.39,114,31,43,4800,,,confirmed,Midday walk
+2026-10-10,20261010-03,weighted_vest_walk,2251,1.85,123,38,47,3712,10,,confirmed,Walk with wife; first vest walk; felt fatigue for about 10 minutes afterward
+2026-10-11,20261011-01,weighted_vest_walk,2419,1.87,128,47,64,3795,10,,confirmed,Felt easier than first vest walk but could tell was working
+2026-10-13,20261013-01,outdoor_walk,1921,1.69,110,17,27,3396,,,confirmed,Morning walk
+2026-10-13,20261013-02,outdoor_walk,2993,2.49,105,20,18,5002,,,confirmed,Late morning walk; reported low energy that day
+2026-10-16,20261016-01,outdoor_walk,2543,2.36,111,27,41,4734,,,confirmed,Brisk unweighted solo walk; pushed somewhat but not maximally
+2026-10-17,20261017-01,weighted_vest_walk,2219,1.81,137,60,68,,10,,confirmed,Only workout that day; felt tough
+2026-10-18,20261018-01,weighted_vest_walk,2260,1.82,134,55,64,,10,,confirmed,Walk with wife
+2026-10-23,20261023-01,weighted_vest_walk,2836,2.43,104,16,25,4918,10,,confirmed,Solo hillier route; surprisingly low Fitbit heart rate
+2026-10-24,20261024-01,weighted_vest_walk,2280,1.83,122,36,45,3671,10,,confirmed,Walk with wife
+2026-10-27,20261027-01,outdoor_walk,2957,2.48,114,34,35,,,,confirmed,Felt fatigue after COVID and flu vaccinations
