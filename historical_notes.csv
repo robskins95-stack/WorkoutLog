@@ -1,0 +1,4 @@
+date,session_id,exercise_id,record_type,notes,missing_details
+2026-10-04,20261004-01,,strength_session,"User reported completing a full dumbbell workout; individual exercises and sets not available from retrieved context","Exercise list; weights; sets; reps"
+2026-10-05,20261005-02,dumbbell_floor_press,exercise_completed,"User reported additional mini floor press work following prior day's full dumbbell workout","Weights; sets; reps"
+2026-10-05,20261005-02,dumbbell_curl,exercise_completed,"User reported additional mini curl work following prior day's full dumbbell workout","Weights; sets; reps"
