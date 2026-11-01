@@ -1,0 +1,7 @@
+exercise_id,exercise_name,equipment,weight_basis,measurement_type,primary_muscles,secondary_muscles
+side_plank,Side plank,Bodyweight,bodyweight,duration_seconds,Obliques,Transverse abdominis; Gluteus medius; Quadratus lumborum
+dumbbell_floor_press,Dumbbell floor press,Dumbbells,per_dumbbell,reps,Chest,Triceps; Anterior deltoids
+dumbbell_curl,Dumbbell curl,Dumbbells,per_dumbbell,reps,Biceps,Brachialis; Forearms
+one_arm_dumbbell_row,One-arm dumbbell row,Dumbbell,per_dumbbell,reps,Latissimus dorsi; Upper back,Biceps; Posterior deltoids
+goblet_squat,Goblet squat,Dumbbell,total_external_load,reps,Quadriceps; Glutes,Adductors; Core
+dumbbell_lateral_raise,Dumbbell lateral raise,Dumbbells,per_dumbbell,reps,Lateral deltoids,Upper trapezius
