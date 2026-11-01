@@ -1,0 +1,5 @@
+date,session_id,exercise_id,set_number,side,weight_lb,reps,duration_seconds,planned_reps,effort,stop_reason,notes
+2026-11-01,20261101-01,side_plank,1,left,,,20,,,,
+2026-11-01,20261101-01,side_plank,1,right,,,20,,,,
+2026-11-01,20261101-01,side_plank,2,left,,,20,,,,
+2026-11-01,20261101-01,side_plank,2,right,,,20,,,,
