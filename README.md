@@ -37,3 +37,34 @@ A human-readable workout history, organized for future progress analysis.
 - No suggested-but-unconfirmed exercises have been backfilled.
 
 Historical sources are conversation reports and screenshots, not direct imports from Fitbit. More accurate historical data can be added when available.
+
+
+## Dashboard
+
+The repository now includes a mobile-friendly, read-only web dashboard:
+
+- \`index.html\` — responsive layout and navigation
+- \`dashboard.js\` — CSV parsing, summary statistics, walking pace and distance charts, filters, strength sets, muscle coverage, and historical notes
+
+It loads \`cardio.csv\`, \`sets.csv\`, \`exercises.csv\`, and \`historical_notes.csv\` **from the same directory** each time the page is opened, so subsequent CSV updates appear without rebuilding the dashboard.
+
+### Preview locally
+
+Download or clone the repository and run this command in its root folder:
+
+    python3 -m http.server 8000
+
+Then open \`http://localhost:8000/\` in a browser. On Windows, \`py -m http.server 8000\` may work instead.
+
+Alternatively, open \`index.html\` directly and use the file pickers that appear if the browser blocks automatic CSV loading. These are read-only and do not write to GitHub.
+
+### Publishing and privacy
+
+**GitHub Pages has not been enabled or published.** The source repository is private. If you decide to deploy a public static site, assume the displayed workout history and the CSV files may become publicly accessible even though the repository itself is private. Review GitHub Pages plan support and access controls before publishing.
+
+### Data interpretation
+
+- Muscle coverage counts confirmed set rows by primary muscle group; it is not a precise estimate of physiological training volume.
+- Walking charts use only sessions with reported duration and distance. Incomplete sessions remain in the history with missing metrics blank.
+- Distance totals include only the sessions explicitly recorded in \`cardio.csv\`, not all walking activity.
+- No workout history is sent to a third-party analytics service.
