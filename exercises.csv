@@ -5,3 +5,9 @@ dumbbell_curl,Dumbbell curl,Dumbbells,per_dumbbell,reps,Biceps,Brachialis; Forea
 one_arm_dumbbell_row,One-arm dumbbell row,Dumbbell,per_dumbbell,reps,Latissimus dorsi; Upper back,Biceps; Posterior deltoids
 goblet_squat,Goblet squat,Dumbbell,total_external_load,reps,Quadriceps; Glutes,Adductors; Core
 dumbbell_lateral_raise,Dumbbell lateral raise,Dumbbells,per_dumbbell,reps,Lateral deltoids,Upper trapezius
+split_squat,Split squat,Bodyweight,bodyweight,reps,Quadriceps; Glutes,Adductors; Core
+dumbbell_romanian_deadlift,Dumbbell Romanian deadlift,Dumbbells,per_dumbbell,reps,Hamstrings; Glutes,Spinal erectors; Core
+incline_dumbbell_bench_press,Incline dumbbell bench press,Dumbbells and bench,per_dumbbell,reps,Upper chest; Anterior deltoids,Triceps
+seated_hammer_curl,Seated hammer curl,Dumbbells and bench,per_dumbbell,reps,Brachialis; Biceps,Brachioradialis; Forearms
+suitcase_carry,Suitcase carry,Dumbbell,per_dumbbell,duration_seconds,Core; Obliques,Grip; Trapezius
+dead_bug,Dead bug,Bodyweight,bodyweight,reps,Core; Transverse abdominis,Rectus abdominis; Hip flexors
