@@ -5,10 +5,10 @@ date,session_id,exercise_id,set_number,side,weight_lb,reps,duration_seconds,plan
 2026-11-01,20261101-01,side_plank,2,right,,,20,,,,
 2026-11-03,20261103-01,split_squat,1,left,,8,,8,,,Bodyweight
 2026-11-03,20261103-01,split_squat,1,right,,8,,8,,,Bodyweight
-2026-11-03,20261103-01,split_squat,2,left,,8,,8,felt good,,Bodyweight; improving strength and comfort
-2026-11-03,20261103-01,split_squat,2,right,,8,,8,felt good,,Bodyweight; improving strength and comfort
-2026-11-03,20261103-01,dumbbell_romanian_deadlift,1,both,30,10,,10,felt good,,Dumbbells held at sides; hamstrings primary; no back discomfort
-2026-11-03,20261103-01,dumbbell_romanian_deadlift,2,both,30,10,,10,strong,,Dumbbells held at sides; hamstrings primary; no back discomfort
+2026-11-03,20261103-01,split_squat,2,left,,8,,8,,,Bodyweight; felt good; improving strength and comfort
+2026-11-03,20261103-01,split_squat,2,right,,8,,8,,,Bodyweight; felt good; improving strength and comfort
+2026-11-03,20261103-01,dumbbell_romanian_deadlift,1,both,30,10,,10,,,Dumbbells held at sides; hamstrings primary; felt good; no back discomfort
+2026-11-03,20261103-01,dumbbell_romanian_deadlift,2,both,30,10,,10,,,Dumbbells held at sides; hamstrings primary; felt strong; no back discomfort
 2026-11-03,20261103-01,incline_dumbbell_bench_press,1,both,30,12,,8-12,hard,,Approximately 1-2 reps in reserve; back supported
 2026-11-03,20261103-01,incline_dumbbell_bench_press,2,both,30,8,,8-12,hard,,Approximately 1-2 reps in reserve; back supported
 2026-11-03,20261103-01,one_arm_dumbbell_row,1,left,35,12,,10-12,moderate,,Felt manageable but winded afterward
