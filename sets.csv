@@ -3,3 +3,27 @@ date,session_id,exercise_id,set_number,side,weight_lb,reps,duration_seconds,plan
 2026-11-01,20261101-01,side_plank,1,right,,,20,,,,
 2026-11-01,20261101-01,side_plank,2,left,,,20,,,,
 2026-11-01,20261101-01,side_plank,2,right,,,20,,,,
+2026-11-03,20261103-01,split_squat,1,left,,8,,8,,,Bodyweight
+2026-11-03,20261103-01,split_squat,1,right,,8,,8,,,Bodyweight
+2026-11-03,20261103-01,split_squat,2,left,,8,,8,felt good,,Bodyweight; improving strength and comfort
+2026-11-03,20261103-01,split_squat,2,right,,8,,8,felt good,,Bodyweight; improving strength and comfort
+2026-11-03,20261103-01,dumbbell_romanian_deadlift,1,both,30,10,,10,felt good,,Dumbbells held at sides; hamstrings primary; no back discomfort
+2026-11-03,20261103-01,dumbbell_romanian_deadlift,2,both,30,10,,10,strong,,Dumbbells held at sides; hamstrings primary; no back discomfort
+2026-11-03,20261103-01,incline_dumbbell_bench_press,1,both,30,12,,8-12,hard,,Approximately 1-2 reps in reserve; back supported
+2026-11-03,20261103-01,incline_dumbbell_bench_press,2,both,30,8,,8-12,hard,,Approximately 1-2 reps in reserve; back supported
+2026-11-03,20261103-01,one_arm_dumbbell_row,1,left,35,12,,10-12,moderate,,Felt manageable but winded afterward
+2026-11-03,20261103-01,one_arm_dumbbell_row,1,right,35,12,,10-12,moderate,,Felt manageable but winded afterward
+2026-11-03,20261103-01,one_arm_dumbbell_row,2,left,35,12,,10-12,easy,,Almost too easy; bench supported
+2026-11-03,20261103-01,one_arm_dumbbell_row,2,right,35,12,,10-12,easy,,Almost too easy; bench supported
+2026-11-03,20261103-01,seated_hammer_curl,1,both,20,12,,8-12,moderate,,Slightly reclined bench backrest; strict form
+2026-11-03,20261103-01,seated_hammer_curl,2,both,20,8,,8-12,hard,Form beginning to deteriorate,Slightly reclined bench backrest; strict form
+2026-11-03,20261103-01,dumbbell_lateral_raise,1,both,10,12,,10-12,hard,,Seated; first set last few reps tough
+2026-11-03,20261103-01,dumbbell_lateral_raise,2,both,10,10,,10-12,,,Seated; first set last few reps tough
+2026-11-03,20261103-01,suitcase_carry,1,left,40,,30,,easy,,One dumbbell at a time; 30 seconds each side; felt pretty easy
+2026-11-03,20261103-01,suitcase_carry,1,right,40,,30,,easy,,One dumbbell at a time; 30 seconds each side; felt pretty easy
+2026-11-03,20261103-01,suitcase_carry,2,left,40,,30,,easy,,One dumbbell at a time; 30 seconds each side; felt pretty easy
+2026-11-03,20261103-01,suitcase_carry,2,right,40,,30,,easy,,One dumbbell at a time; 30 seconds each side; felt pretty easy
+2026-11-03,20261103-01,dead_bug,1,left,,5,,5,,,"Alternating opposite arm and leg; first set 10 total movements, second set 8 total; no back discomfort reported"
+2026-11-03,20261103-01,dead_bug,1,right,,5,,5,,,"Alternating opposite arm and leg; first set 10 total movements, second set 8 total; no back discomfort reported"
+2026-11-03,20261103-01,dead_bug,2,left,,4,,4,,,"Alternating opposite arm and leg; first set 10 total movements, second set 8 total; no back discomfort reported"
+2026-11-03,20261103-01,dead_bug,2,right,,4,,4,,,"Alternating opposite arm and leg; first set 10 total movements, second set 8 total; no back discomfort reported"
