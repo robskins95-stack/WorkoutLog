@@ -27,3 +27,22 @@ date,session_id,exercise_id,set_number,side,weight_lb,reps,duration_seconds,plan
 2026-11-03,20261103-01,dead_bug,1,right,,5,,5,,,"Alternating opposite arm and leg; first set 10 total movements, second set 8 total; no back discomfort reported"
 2026-11-03,20261103-01,dead_bug,2,left,,4,,4,,,"Alternating opposite arm and leg; first set 10 total movements, second set 8 total; no back discomfort reported"
 2026-11-03,20261103-01,dead_bug,2,right,,4,,4,,,"Alternating opposite arm and leg; first set 10 total movements, second set 8 total; no back discomfort reported. Post-workout: felt good, no fatigue, no back pain."
+2026-11-05,20261105-01,goblet_squat,1,both,40,10,,10-12,moderate,,One dumbbell; challenging but manageable
+2026-11-05,20261105-01,goblet_squat,2,both,40,10,,10-12,moderate,,Felt manageable; not trivial
+2026-11-05,20261105-01,goblet_squat,3,both,40,12,,10-12,hard,,Breathing hard after final set
+2026-11-05,20261105-01,flat_dumbbell_bench_press,1,both,30,12,,8-12,moderate,,30 lb per dumbbell
+2026-11-05,20261105-01,flat_dumbbell_bench_press,2,both,30,12,,8-12,moderate,,30 lb per dumbbell
+2026-11-05,20261105-01,flat_dumbbell_bench_press,3,both,30,12,,8-12,hard,,Last reps tough; 3x12 rep PR
+2026-11-05,20261105-01,one_arm_dumbbell_row,1,left,40,12,,10-12,hard,,Bench-supported; form felt more difficult at 40 lb
+2026-11-05,20261105-01,one_arm_dumbbell_row,1,right,40,12,,10-12,hard,,Bench-supported; form felt more difficult at 40 lb
+2026-11-05,20261105-01,one_arm_dumbbell_row,2,left,40,12,,10-12,hard,,Last reps challenging; maintain strict form
+2026-11-05,20261105-01,one_arm_dumbbell_row,2,right,40,12,,10-12,hard,,Last reps challenging; maintain strict form
+2026-11-05,20261105-01,dumbbell_romanian_deadlift,1,both,40,10,,8-12,moderate,,40 lb in each hand; no back discomfort reported
+2026-11-05,20261105-01,dumbbell_romanian_deadlift,2,both,35,10,,8-12,moderate,,Cautious back-off set at 35 lb per hand; no pain reported
+2026-11-05,20261105-01,seated_dumbbell_shoulder_press,1,both,20,12,,8-12,hard,,Back supported; last reps tough
+2026-11-05,20261105-01,seated_dumbbell_shoulder_press,2,both,20,12,,8-12,hard,,Back supported; last reps tough
+2026-11-05,20261105-01,dumbbell_curl,1,both,20,12,,8-12,hard,,Standing supinated; strict reps
+2026-11-05,20261105-01,dumbbell_curl,2,both,20,10,,8-12,hard,,Standing supinated; improvement over prior 10/7
+2026-11-05,20261105-01,farmer_carry,1,both,40,,30,,,,40 lb in each hand (80 lb combined); third set beyond original plan
+2026-11-05,20261105-01,farmer_carry,2,both,40,,30,,,,40 lb in each hand (80 lb combined); third set beyond original plan
+2026-11-05,20261105-01,farmer_carry,3,both,40,,30,,,,40 lb in each hand (80 lb combined); third set beyond original plan
