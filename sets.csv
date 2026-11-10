@@ -66,3 +66,5 @@ date,session_id,exercise_id,set_number,side,weight_lb,reps,duration_seconds,plan
 2026-11-08,20261108-01,suitcase_carry,1,right,40,,30,,easy,,One dumbbell at a time; fairly easy
 2026-11-08,20261108-01,suitcase_carry,2,left,40,,30,,easy,,One dumbbell at a time; fairly easy
 2026-11-08,20261108-01,suitcase_carry,2,right,40,,30,,easy,,One dumbbell at a time; fairly easy
+2026-11-10,20261110-01,dead_bug,1,both,,10,,8-10,,,,Bodyweight; 10 total alternating reps; recovery-day core work
+2026-11-10,20261110-01,dead_bug,2,both,,10,,8-10,,,,Bodyweight; 10 total alternating reps; recovery-day core work
