@@ -14,3 +14,4 @@ dead_bug,Dead bug,Bodyweight,bodyweight,reps,Core; Transverse abdominis,Rectus a
 flat_dumbbell_bench_press,Flat dumbbell bench press,Dumbbells and bench,per_dumbbell,reps,Chest,Triceps; Anterior deltoids
 seated_dumbbell_shoulder_press,Seated dumbbell shoulder press,Dumbbells and bench,per_dumbbell,reps,Anterior deltoids; Lateral deltoids,Triceps; Upper chest
 farmer_carry,Farmer carry,Dumbbells,per_dumbbell,duration_seconds,Grip; Trapezius; Core,Forearms; Shoulder stabilizers
+bodyweight_squat,Bodyweight squat,Bodyweight,bodyweight,reps,Quadriceps; Glutes,Adductors; Core
