@@ -26,6 +26,7 @@ A human-readable workout history, organized for future progress analysis.
 - `data_quality=partial` means some measurements were not supplied.
 - Blank means unknown or not applicable, **not zero**.
 - Fitbit zone minutes may double-count vigorous-intensity minutes according to Fitbit's method.
+- **Default for new walks:** Assume unweighted unless the user specifies a weighted vest. Keep `vest_weight_lb` blank for unweighted walks (not zero). If pace and heart rate together seem unusually high for an unweighted walk, ask whether a vest was worn rather than silently classifying it as weighted. Do not infer vest use from heart rate alone.
 
 ## Historical backfill
 
