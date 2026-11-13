@@ -84,3 +84,4 @@ date,session_id,exercise_id,set_number,side,weight_lb,reps,duration_seconds,plan
 2026-11-11,20261111-02,dumbbell_curl,2,both,20,10,,8-12,hard,Form beginning to degrade,Stopped after 10 clean reps rather than forcing extra reps; back felt good throughout session (user reported post-workout)
 2026-11-13,20261113-01,dead_bug,1,both,,10,,10,,,Bodyweight; 10 total alternating reps
 2026-11-13,20261113-01,dead_bug,2,both,,10,,10,,,Bodyweight; 10 total alternating reps
+2026-11-13,20261113-01,flat_dumbbell_bench_press,1,both,30,12,,8-12,,,Lighter flat bench work before a long drive; 30 lb per dumbbell
