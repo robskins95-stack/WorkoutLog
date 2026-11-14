@@ -15,3 +15,4 @@ flat_dumbbell_bench_press,Flat dumbbell bench press,Dumbbells and bench,per_dumb
 seated_dumbbell_shoulder_press,Seated dumbbell shoulder press,Dumbbells and bench,per_dumbbell,reps,Anterior deltoids; Lateral deltoids,Triceps; Upper chest
 farmer_carry,Farmer carry,Dumbbells,per_dumbbell,duration_seconds,Grip; Trapezius; Core,Forearms; Shoulder stabilizers
 bodyweight_squat,Bodyweight squat,Bodyweight,bodyweight,reps,Quadriceps; Glutes,Adductors; Core
+chest_supported_dumbbell_row,Chest-supported dumbbell row,Dumbbells and incline bench,per_dumbbell,reps,Upper back; Latissimus dorsi,Biceps; Posterior deltoids
