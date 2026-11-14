@@ -91,3 +91,4 @@ date,session_id,exercise_id,set_number,side,weight_lb,reps,duration_seconds,plan
 2026-11-14,20261114-01,split_squat,1,right,,12,,12,,,Bodyweight
 2026-11-14,20261114-01,split_squat,2,left,,12,,12,,,Bodyweight
 2026-11-14,20261114-01,split_squat,2,right,,12,,12,,,Bodyweight
+2026-11-14,20261114-01,flat_dumbbell_bench_press,1,both,35,12,,8-12,,,35 lb per dumbbell
