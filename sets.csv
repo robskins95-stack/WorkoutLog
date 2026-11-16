@@ -116,3 +116,4 @@ date,session_id,exercise_id,set_number,side,weight_lb,reps,duration_seconds,plan
 2026-11-16,20261116-01,chest_supported_dumbbell_row,2,both,35,12,,12,easy,,35 lb per dumbbell; second set felt on the easy side; increased from 30 lb
 2026-11-16,20261116-01,dumbbell_curl,1,both,20,12,,12,moderate,,Standing supinated curls both arms simultaneously; good form; felt good
 2026-11-16,20261116-01,dumbbell_curl,2,both,20,12,,12,moderate-hard,,Standing supinated curls both arms simultaneously; user reported moderate to tough
+2026-11-16,20261116-01,seated_dumbbell_shoulder_press,1,both,20,12,,12,easy,,Back-supported seated shoulder press; first set felt easy; considering moving up for set 2
