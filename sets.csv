@@ -103,3 +103,5 @@ date,session_id,exercise_id,set_number,side,weight_lb,reps,duration_seconds,plan
 2026-11-14,20261114-01,dumbbell_lateral_raise,2,both,10,12,,10-12,,,10 lb per dumbbell; 12 reps; effort not specified
 2026-11-14,20261114-01,farmer_carry,1,both,40,,45,,,,40 lb per hand (80 lb combined); 45 seconds
 2026-11-14,20261114-01,farmer_carry,2,both,40,,45,,,,40 lb per hand (80 lb combined); 45 seconds
+2026-11-15,20261115-01,dead_bug,1,both,,10,,,,,
+2026-11-15,20261115-01,dead_bug,2,both,,10,,,,,
