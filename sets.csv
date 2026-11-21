@@ -138,3 +138,18 @@ date,session_id,exercise_id,set_number,side,weight_lb,reps,duration_seconds,plan
 2026-11-18,20261118-01,suitcase_carry,1,right,40,,40,,,,40 seconds each arm; replaced farmer carries
 2026-11-18,20261118-01,suitcase_carry,2,left,40,,40,,,,40 seconds each arm; replaced farmer carries
 2026-11-18,20261118-01,suitcase_carry,2,right,40,,40,,,,40 seconds each arm; replaced farmer carries
+2026-11-21,20261121-01,bodyweight_squat,1,both,,12,,,,,Unweighted; avoided goblet squats due to prior possible back discomfort; user does not count these as full weighted working sets
+2026-11-21,20261121-01,bodyweight_squat,2,both,,12,,,,,
+2026-11-21,20261121-01,bodyweight_squat,3,both,,12,,,,,
+2026-11-21,20261121-01,flat_dumbbell_bench_press,1,both,40,12,,,,,40 lb per dumbbell; bench work described as tough overall
+2026-11-21,20261121-01,flat_dumbbell_bench_press,2,both,35,12,,,,,35 lb per dumbbell back-off set; bench work described as tough overall
+2026-11-21,20261121-01,chest_supported_dumbbell_row,1,both,35,12,,,,,35 lb per dumbbell; three sets completed
+2026-11-21,20261121-01,chest_supported_dumbbell_row,2,both,35,12,,,,,
+2026-11-21,20261121-01,chest_supported_dumbbell_row,3,both,35,12,,,,,
+2026-11-21,20261121-01,seated_dumbbell_shoulder_press,1,both,22.5,12,,,,,22.5 lb per dumbbell
+2026-11-21,20261121-01,seated_dumbbell_shoulder_press,2,both,22.5,12,,,hard,,Second set tough
+2026-11-21,20261121-01,seated_hammer_curl,1,both,22.5,12,,,,,22.5 lb per dumbbell; increased from previous 20 lb; sets described as tough overall
+2026-11-21,20261121-01,seated_hammer_curl,2,both,22.5,10,,,,,Sets described as tough overall
+2026-11-21,20261121-01,bodyweight_squat,4,both,,12,,,,,Additional fourth set after curls; 48 unweighted squat reps total
+2026-11-21,20261121-01,dumbbell_lateral_raise,1,both,10,12,,,,,Seated; 10 lb per dumbbell; overall moderate effort
+2026-11-21,20261121-01,dumbbell_lateral_raise,2,both,10,12,,,,,Seated; overall moderate effort
