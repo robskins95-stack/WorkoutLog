@@ -185,3 +185,7 @@ date,session_id,exercise_id,set_number,side,weight_lb,reps,duration_seconds,plan
 2026-11-25,20261125-01,suitcase_carry,1,right,40,,45,,easy-moderate,,Two 45-second sets reported; per-side interpretation follows prescribed workout
 2026-11-25,20261125-01,suitcase_carry,2,left,40,,45,,easy-moderate,,Two 45-second sets reported; per-side interpretation follows prescribed workout
 2026-11-25,20261125-01,suitcase_carry,2,right,40,,45,,easy-moderate,,Two 45-second sets reported; per-side interpretation follows prescribed workout
+2026-11-25,20261125-01,dead_bug,1,both,,12,,,hard,,Tough final few reps; total alternating reps per prescribed convention
+2026-11-25,20261125-01,dead_bug,2,both,,12,,,hard,,Tough final few reps
+2026-11-25,20261125-01,seated_hammer_curl,1,both,22.5,12,,,moderate,,Overall effort moderate; form deteriorating reported
+2026-11-25,20261125-01,seated_hammer_curl,2,both,22.5,11,,,moderate,Form beginning to deteriorate,User reported back felt good during preceding workout
